@@ -29,19 +29,14 @@ This app demonstrates role-based authorization, category/product management, and
 ---
 
 ## 🖼️ Screenshots
-<img width="1920" height="1080" alt="User Roles of Application" src="https://github.com/user-attachments/assets/c3b658ec-f4a6-475c-8819-78de0e29ad19" />
+<img width="1920" height="951" alt="User Roles of Application" src="https://github.com/user-attachments/assets/374497ac-af19-45f2-8fd8-91cabf020ccd" />
+<img width="1920" height="978" alt="Register Page" src="https://github.com/user-attachments/assets/8077764d-9d5b-4f6e-b073-6790fbe80221" />
+<img width="1917" height="982" alt="Product Page" src="https://github.com/user-attachments/assets/384ce87b-6de9-4687-a449-310b9fc93d9d" />
+<img width="1920" height="963" alt="Login Page" src="https://github.com/user-attachments/assets/9c4d35d9-bd47-43a0-a35e-274f76b2024a" />
+<img width="1920" height="961" alt="Home Page" src="https://github.com/user-attachments/assets/12bcd4cd-73fb-4621-a153-8138d232cdcc" />
+<img width="1920" height="974" alt="Company Page" src="https://github.com/user-attachments/assets/f41b6ab0-66d4-4f9b-a8c0-6b711546e771" />
+<img width="1907" height="963" alt="Category Page" src="https://github.com/user-attachments/assets/e89b2bd3-1dcc-4cb2-9845-0990f871e1c5" />
 
-<img width="1920" height="1080" alt="Register Page" src="https://github.com/user-attachments/assets/6e8d0889-ee79-4926-844a-b179bee7928f" />
-
-<img width="1920" height="1080" alt="Product Page" src="https://github.com/user-attachments/assets/7d5d8eef-ac4a-4e38-8cc4-1978ac790fd5" />
-
-<img width="1920" height="1080" alt="Login Page" src="https://github.com/user-attachments/assets/f511c61a-b926-47c6-9004-af5fd4b57955" />
-
-<img width="1920" height="1080" alt="Home Page" src="https://github.com/user-attachments/assets/0d168d02-5850-48e0-9d03-7d4a017e2eec" />
-
-<img width="1920" height="1080" alt="Company Page" src="https://github.com/user-attachments/assets/d8c7d195-59f0-4a64-9883-ea550890124f" />
-
-<img width="1920" height="1080" alt="Category Page" src="https://github.com/user-attachments/assets/93246827-cdad-4ce3-8c1d-58d5231539e8" />
 
 
 
